@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.1",
+    "stripe": "^16.9.0"
+  }
+}
